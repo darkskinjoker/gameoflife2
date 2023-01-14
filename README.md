@@ -1,3 +1,4 @@
 # Project Name
 
-Project description
+An attempt at John Conways game of life.
+
